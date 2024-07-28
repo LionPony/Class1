@@ -1,0 +1,43 @@
+# 두 수 비교하기
+# https://www.acmicpc.net/problem/1330
+CompareTwoNums.py
+
+# 별찍기 - 1
+# https://www.acmicpc.net/problem/2438
+PrintStar-1.py
+
+# 검증수
+# https://solved.ac/class?class=1
+VerificationNumber.py
+
+# 구구단
+# https://www.acmicpc.net/problem/2739
+MultiplicationTables.py
+
+# N 찍기
+# https://www.acmicpc.net/problem/2741
+PrintN.py
+
+# 고양이
+# https://www.acmicpc.net/problem/10171
+Cat.py
+
+# 개
+# https://www.acmicpc.net/problem/10172
+Dog.py
+
+# X보다 작은 수
+# https://www.acmicpc.net/problem/10871
+SmallerThanX.py
+
+# A+B - 3
+# https://www.acmicpc.net/problem/10950
+APlusB-3.py
+
+# A+B - 4
+# https://www.acmicpc.net/problem/10951
+APlusB-4.py
+
+# A+B - 5
+# https://www.acmicpc.net/problem/10952
+APlusB-5.py
