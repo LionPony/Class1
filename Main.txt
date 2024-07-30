@@ -1,0 +1,99 @@
+# 두 수 비교하기
+# https://www.acmicpc.net/problem/1330
+CompareTwoNums.py
+
+# 별찍기 - 1
+# https://www.acmicpc.net/problem/2438
+PrintStar-1.py
+
+# 검증수
+# https://solved.ac/class?class=1
+VerificationNumber.py
+
+# 구구단
+# https://www.acmicpc.net/problem/2739
+MultiplicationTables.py
+
+# N 찍기
+# https://www.acmicpc.net/problem/2741
+PrintN.py
+
+# 고양이
+# https://www.acmicpc.net/problem/10171
+Cat.py
+
+# 개
+# https://www.acmicpc.net/problem/10172
+Dog.py
+
+# X보다 작은 수
+# https://www.acmicpc.net/problem/10871
+SmallerThanX.py
+
+# A+B - 3
+# https://www.acmicpc.net/problem/10950
+APlusB-3.py
+
+# A+B - 4
+# https://www.acmicpc.net/problem/10951
+APlusB-4.py
+
+# A+B - 5
+# https://www.acmicpc.net/problem/10952
+APlusB-5.py
+
+# 아스키코드
+# https://www.acmicpc.net/problem/11654
+ASCii.py
+
+# 새싹
+# https://www.acmicpc.net/problem/25083
+Sprout.py
+
+# 문자와 문자열
+# https://www.acmicpc.net/problem/27866
+CharacterAndString.py
+
+# 별 찍기 - 2
+# https://www.acmicpc.net/problem/2439
+PrintStar-2.py
+
+# 숫자의 합
+# https://www.acmicpc.net/problem/11720
+SumofNums.py
+
+# A + B - C
+# https://www.acmicpc.net/problem/31403
+APlusBMinusC.py
+
+# 최댓값
+# https://www.acmicpc.net/problem/2562
+Max.py
+
+# ACM 호텔
+# https://www.acmicpc.net/problem/10250
+ACMHotel.py
+
+# 최소, 최대
+# https://www.acmicpc.net/problem/10818
+MinMax.py
+
+# 단어의 개수
+# https://www.acmicpc.net/problem/1152
+NumberofWords.py
+
+# 숫자의 개수
+# https://www.acmicpc.net/problem/2577
+NumberofNumbers.py
+
+# 음계
+# https://www.acmicpc.net/problem/2920
+Scale.py
+
+# 나머지
+# https://www.acmicpc.net/problem/3052
+Remain.py
+
+# 알파벳 찾기
+# https://www.acmicpc.net/problem/10809
+FindAlphabet.py
